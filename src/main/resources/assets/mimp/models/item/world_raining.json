@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/bucket",
+  "overrides": [
+    {
+      "predicate": {
+        "mimp:world_raining": 1
+      },
+      "model": "minecraft:item/water_bucket"
+    }
+  ]
+}

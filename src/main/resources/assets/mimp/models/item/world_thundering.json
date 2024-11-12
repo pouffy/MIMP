@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/stick",
+  "overrides": [
+    {
+      "predicate": {
+        "mimp:world_thundering": 1
+      },
+      "model": "minecraft:item/lightning_rod"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/scute",
+  "overrides": [
+    {
+      "predicate": {
+        "mimp:owner_sprinting": 1
+      },
+      "model": "minecraft:item/feather"
+    }
+  ]
+}

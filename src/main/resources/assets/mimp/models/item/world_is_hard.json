@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/black_dye",
+  "overrides": [
+    {
+      "predicate": {
+        "mimp:world_is_hard": 1
+      },
+      "model": "minecraft:item/red_dye"
+    }
+  ]
+}

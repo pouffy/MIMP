@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/netherite_scrap",
+  "overrides": [
+    {
+      "predicate": {
+        "mimp:slot_mainhand": 1
+      },
+      "model": "minecraft:item/netherite_ingot"
+    }
+  ]
+}

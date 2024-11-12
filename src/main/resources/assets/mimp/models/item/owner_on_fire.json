@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/gunpowder",
+  "overrides": [
+    {
+      "predicate": {
+        "mimp:owner_on_fire": 1
+      },
+      "model": "minecraft:item/blaze_powder"
+    }
+  ]
+}

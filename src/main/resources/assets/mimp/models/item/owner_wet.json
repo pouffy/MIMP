@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/sponge",
+  "overrides": [
+    {
+      "predicate": {
+        "mimp:owner_wet": 1
+      },
+      "model": "minecraft:item/wet_sponge"
+    }
+  ]
+}

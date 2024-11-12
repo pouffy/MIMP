@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/redstone",
+  "overrides": [
+    {
+      "predicate": {
+        "mimp:slot_offhand": 1
+      },
+      "model": "minecraft:item/redstone_block"
+    }
+  ]
+}

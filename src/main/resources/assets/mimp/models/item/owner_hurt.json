@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/sugar",
+  "overrides": [
+    {
+      "predicate": {
+        "mimp:owner_hurt": 1
+      },
+      "model": "minecraft:item/redstone"
+    }
+  ]
+}

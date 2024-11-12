@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/bell",
+  "overrides": [
+    {
+      "predicate": {
+        "mimp:": 1.0
+      },
+      "model": "minecraft:item/birch_planks"
+    }
+  ]
+}

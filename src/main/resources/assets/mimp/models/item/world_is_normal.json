@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/gray_dye",
+  "overrides": [
+    {
+      "predicate": {
+        "mimp:world_is_normal": 1
+      },
+      "model": "minecraft:item/orange_dye"
+    }
+  ]
+}

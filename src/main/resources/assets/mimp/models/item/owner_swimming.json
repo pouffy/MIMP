@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/diamond_boots",
+  "overrides": [
+    {
+      "predicate": {
+        "mimp:owner_swimming": 1
+      },
+      "model": "minecraft:item/raw_salmon"
+    }
+  ]
+}

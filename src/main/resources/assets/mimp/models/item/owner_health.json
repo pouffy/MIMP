@@ -1,0 +1,29 @@
+{
+  "parent": "minecraft:item/sand",
+  "overrides": [
+    {
+      "predicate": {
+        "mimp:owner_health": 0.25
+      },
+      "model": "minecraft:item/rooted_dirt"
+    },
+    {
+      "predicate": {
+        "mimp:owner_health": 0.5
+      },
+      "model": "minecraft:item/dirt"
+    },
+    {
+      "predicate": {
+        "mimp:owner_health": 0.75
+      },
+      "model": "minecraft:item/grass_block"
+    },
+    {
+      "predicate": {
+        "mimp:owner_health": 1
+      },
+      "model": "minecraft:item/moss_block"
+    }
+  ]
+}

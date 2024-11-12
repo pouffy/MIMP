@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/light_gray_dye",
+  "overrides": [
+    {
+      "predicate": {
+        "mimp:world_is_easy": 1
+      },
+      "model": "minecraft:item/yellow_dye"
+    }
+  ]
+}

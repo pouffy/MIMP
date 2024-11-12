@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/tinted_glass",
+  "overrides": [
+    {
+      "predicate": {
+        "mimp:owner_can_see_sky": 1
+      },
+      "model": "minecraft:item/glass"
+    }
+  ]
+}
